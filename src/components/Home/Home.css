@@ -14,3 +14,8 @@ nav a{
     grid-template-columns: repeat(3,1fr);
     gap: 15px;
 }
+.toast{
+    background-color: coral;
+    font-size: large;
+
+}
